@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @AcusPGP.
+# 1. Information about me
+- 👋 Hi there, I am Pham Gia Phuc. My nickname is Acus
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Java, JavaScript and SQL.
-- 💞️ I’m looking to collaborate on ... (update soon).
-- 📫 How to reach me: acus1304pgphcm@gmail.com.
+- 🌱 My majorm is Computer Science.
+- 💞️ I am currently studying in International University at Vietnam.
+- 📫 How to reach me: acuscodinghcm@gmail.com.
+------
+# 2. Language & Tools
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,python,c,postgresql,docker,maven,html,css,github)](https://skills.thijs.gg)
+
 
 <!---
 AcusPGP/AcusPGP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
