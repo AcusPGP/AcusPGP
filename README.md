@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding.
 - 🌱 My majorm is Computer Science.
 - 💞️ I am currently studying in International University at Vietnam.
-- 📫 How to reach me: acuscodinghcm@gmail.com.
+- 📫 How to reach me: acuscodinghcm@gmail.com. My work account: [phamgiaphuc](https://github.com/phamgiaphuc)
 ------
 # 2. Language & Tools
 
